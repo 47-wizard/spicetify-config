@@ -1,8 +1,5 @@
 <img width="2048" height="1134" alt="464618557-368462b9-d879-40ee-9afb-5a8c32548f03" src="https://github.com/user-attachments/assets/e88db246-7e23-4851-ae52-ca8013f3f256" />
 
-<h2>UPDATE in August 2026: 
-  
-  I won't be updating this repo anymore as I'm no longer a Spotify user.</h2>
 
 - immersiveView: hide library/ now playing bar/ sidebar
   
